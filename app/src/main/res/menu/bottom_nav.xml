@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Ба дустон" />
+        <item
+            android:id="@+id/like"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Баҳогузори" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Баромад" />
+    </group>
+</menu>
